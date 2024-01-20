@@ -1,15 +1,24 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/khMuaaz/khMuaaz/assets/39168816/df4c106f-0c1c-4c21-a6f9-1f6f5dc000b9)
+
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/khMuaaz/khMuaaz/assets/39168816/5a43267b-b1e4-49b0-809e-7869ebd52f62)
+
+
 <h1 align="center">Hey, Muaaz Here</h1>
 <h3 align="center">A highly analytical and data-driven professional</h3>
 <br/>
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **Power BI**
+- 🔭 I’m currently working on Data Analysis and Power BI Development
 
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **abdul.maaz@gmail.com**
+- 💬 Ask me about Data Analytics, Power BI, and AWS Solutions
+  
+- 📫 How to reach me:
+  
+  📞 Phone: 92 3124004212
+  
+   ✉️ Email: bdul.maaz@gmail.com
+  
+-⚡ Fun fact Passionate about transforming data into actionable insights
 <br/>
 <h3 align="left">Connect with me:</h3>
 <br/>
