@@ -1,6 +1,6 @@
 ![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/khMuaaz/khMuaaz/assets/39168816/df4c106f-0c1c-4c21-a6f9-1f6f5dc000b9)
 <h1 align="center">Hey, Muaaz Here</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A highly analytical and data-driven professional</h3>
 <br/>
 <br/>
 <br/>
