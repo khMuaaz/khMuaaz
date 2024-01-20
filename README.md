@@ -17,6 +17,8 @@
   📞 Phone: 92 3124004212
   
    ✉️ Email: bdul.maaz@gmail.com
+
+  ⚡ Website:https://data-solutions-insight-portfolio.vercel.app/
   
 -⚡ Fun fact: Passionate about transforming data into actionable insights
 <br/>
