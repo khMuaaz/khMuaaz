@@ -17,8 +17,6 @@
   📞 Phone: 92 3124004212
   
    ✉️ Email: abdul.muaaz@gmail.com
-
-  ⚡ Website: /data-solutions-insight-portfolio.vercel.app
   
 -⚡ Fun fact: Passionate about transforming data into actionable insights
 <br/>
