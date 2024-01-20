@@ -16,9 +16,9 @@
   
   📞 Phone: 92 3124004212
   
-   ✉️ Email: bdul.maaz@gmail.com
+   ✉️ Email: abdul.muaaz@gmail.com
 
-  ⚡ Website:https://data-solutions-insight-portfolio.vercel.app/
+  ⚡ Website: data-solutions-insight-portfolio.vercel.app/
   
 -⚡ Fun fact: Passionate about transforming data into actionable insights
 <br/>
