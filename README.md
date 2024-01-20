@@ -1,9 +1,8 @@
 ![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/khMuaaz/khMuaaz/assets/39168816/df4c106f-0c1c-4c21-a6f9-1f6f5dc000b9)
-<h1 align="center">MAAZ Here</h1>
+<h1 align="center">Hey, Muazz Here</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <br/>
 <br/>
-<p align="center"> <a href="https://twitter.com/mianhunainhamza" target="blank"><img src="https://img.shields.io/twitter/follow/mianhunainhamza?logo=twitter&style=for-the-badge" alt="mianhunainhamza" /></a> </p>
 <br/>
 
 - 🔭 I’m currently working on **Power BI**
