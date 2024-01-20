@@ -18,7 +18,7 @@
   
    ✉️ Email: bdul.maaz@gmail.com
   
--⚡ Fun fact Passionate about transforming data into actionable insights
+-⚡ Fun fact: Passionate about transforming data into actionable insights
 <br/>
 <h3 align="left">Connect with me:</h3>
 <br/>
