@@ -23,6 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
