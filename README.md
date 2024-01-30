@@ -14,7 +14,7 @@
   
 - 📫 How to reach me:
   
-  📞 Phone: 92 3124004212
+  📞 Phone: 92-3124004212
   
    ✉️ Email: abdul.muaaz@gmail.com
   
